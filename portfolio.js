@@ -1,10 +1,10 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-  name: "Brendan Glancy",
+  name: "Shahriar Hossain",
   title: "Welcome.",
   description:
-    "I am Student / Software Developer, learning Full Stack Web Development and Cyber Security. I have experience building Applications with Vanilla JavaScript, React,  Vue,  Node,  Java,  Spring Boot, Python,  Django and some other cool libraries and frameworks.",
+    "I am Software Engineer 1, Working in Full Stack Web Development. I have experience with PHP, Yii1.1, PHP Custom Framework, Javascript, ExpressJS, ReactJS, Mysql, MongoDB, JAVA, A little bit of AWS, Docker and some other cool libraries and frameworks.",
   resumeLink: "https://brendanglancy.github.io/Resume/",
 };
 
@@ -25,7 +25,7 @@ export const socialLinks = {
 
 export const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "A SOFTWARE ENGINEER WHO WANTS TO EXPLORE DIFFERENT TECH STACK AND WEB TECHNOLOGIES",
   data: [
     {
       title: "Full Stack Development",
@@ -132,28 +132,26 @@ export const SkillBars = [
 
 export const educationInfo = [
   {
-    schoolName: "Akron University",
+    schoolName: "BRAC University",
     subHeader: "Bachelor of Science in Computer Science",
-    duration: "August 2021 - Present",
-    grade: "3.8 GPA",
-    desc: "Programming CIS degree",
+    duration: "January 2018 - 2022",
+    grade: "3.72 CGPA",
+    desc: "Computer Science Undergrad Degree",
     descBullets: [
-      "The Bachelor of Science in Computer Information Systems (CIS) - Programming degree option allows students to attain knowledge of effective software application development, client/server application development, and database application development and management for businesses.",
-      "The CIS - Programming degree option is designed to prepare students for careers in the field of software engineering and development.",
+      "The Bachelor of Science in Computer Science (CS) - A undergrad program under the Computer Science and Engineering Department",
+      "Thesis Topic - Diabetic Retinopathy Detection Using Deep Learning.",
+      "Extra-Curricular Activities - Former President of BRAC University Adventure Club.",
     ],
     github: "https://github.com/BrendanGlancy/akron/",
   },
   {
-    schoolName: "Tech Elevator",
-    subHeader: "Full Stack Development",
-    duration: "September 2020 - December 2020",
-    desc: "Programming Bootcamp to learn Full Stack Development",
+    schoolName: "Dhaka Ciety College",
+    subHeader: "Higher Secondary Certificate - HSC",
+    duration: "January 2015 - March 2017",
+    grade: "5.00 GPA",
     descBullets: [
-      "  Object-Oriented Programming: Java",
-      "  Web Application Development: HTML, CSS, JavaScript, Vue.js, APIs using Spring Boot, Tomcat",
-      "  Database Programming: Spring JDBC/DAO, Table Design, SQL, PostgreSQL, E/R diagrams",
-      "  Completed 1000+ hours of Java, Spring, SQL, and JavaScript training",
-      "  Completed 100+ hours of pair programming on group projects",
+      "Subject: Science",
+      "Extra-Curricular Activities: Former General Member of Debate Club",
     ],
     github: "https://github.com/BrendanGlancy/BreweryLocater",
   },
@@ -161,20 +159,15 @@ export const educationInfo = [
 
 export const experience = [
   {
-    role: "Information Technology",
-    company: "Chamber of Commerce",
+    role: "Junior Software Engineer",
+    company: "Orbit Informatics",
     companylogo: "/img/icons/common/chamber.jpeg",
-    date: "June 2019 – Present",
-    desc: "Communicate with managers to set up computers used on in the office, Assess and troubleshoot computer problems brought by managers, faculty a. Maintain upkeep of computers, servers, and 20+ websites used by the Chamber and local businesses",
-  },
-  {
-    role: "Software Developer Intern",
-    company: "OVS Knife Co.",
-    companylogo: "/img/icons/common/ovs.png",
-    date: "December 2022",
+    date: "January 2022 – Present",
     descBullets: [
-      "  As a Software Developer Intern at OVS Knife Co, I am responsible for the development and maintenance of the company's web application. Utilizing my skills in Next.js, React, MongoDB, Node.js, Django, and Express.js.",
-      "  I work independently to implement new features, improve the overall user experience and make sure the platform is reliable and fast for our customers.",
+      "  Working with the development team in multiple projects.",
+      "  Used Project Management tools such as, Jira & Version Control tools such as, GIT & Github.",
+      "  Project Analysis to estimate the development time.",
+      "  Worked with third party services & api such as, Mangopay payment gateway, Sendgrid, Mailgun, Docraptor, CloudConvert",
     ],
   },
 ];
@@ -222,7 +215,7 @@ export const feedbacks = [
 ];
 
 export const seoData = {
-  title: "Brendan's Portfolio",
+  title: "Shahriar's Portfolio",
   description: "Full Stack Developer showcasing my work and experience.",
   image: "https://avatars.githubusercontent.com/u/61941978?v=4",
   url: "https://brendanglancy.software/",
